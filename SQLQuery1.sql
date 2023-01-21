@@ -3,9 +3,9 @@ from PortfolioProject..CovidDeaths
 order by 3,4
 
 
---select *
---from PortfolioProject..CovidVaccination
---order by 3,4
+select *
+from PortfolioProject..CovidVaccination
+order by 3,4
 
 --Select data that we are going to use
 
